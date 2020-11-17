@@ -27,7 +27,7 @@ public class OperatoryLekcja3 {
         ++y Pre inkrementacja
         --y Pre dekrementacja
         
-        % reszta z dzielenia 
+        % reszta z dzielenia ;
         
         */
         
